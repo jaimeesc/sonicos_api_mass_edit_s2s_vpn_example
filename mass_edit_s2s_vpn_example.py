@@ -3,10 +3,7 @@
 # Pull site to site VPN Policies
 # Edit each policy to enable the "Disable IPsec Anti-Replay" option.
 # Push the change back to SonicOS
-# Commit the changes
-#
-# Written by Jaime Escalera (jescalera@sonicwall.com)
-#
+# Commit the changes#
 #
 
 # Notes:
